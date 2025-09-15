@@ -1,0 +1,4 @@
+.env
+
+# Ignore terraform working directory
+'./01 AWS EC2/Basic/.terraform'
